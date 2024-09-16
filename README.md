@@ -10,4 +10,4 @@ This is a Spring Boot application demonstrating a Many-to-One relationship betwe
 ## Category
 * int id: Unique identifier for the category.
 * String name: Name of the category.
-* Features
+# Features
