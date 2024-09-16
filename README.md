@@ -21,7 +21,6 @@ This is a Spring Boot application demonstrating a Many-to-One relationship betwe
 ## Delete Product by ID
 * Deletes a product by its unique id.
 ## Exception Handling
-* This application handles the following custom exceptions:
-
-CategoryNotFoundException: Thrown when a category with the specified id is not found.
-ProductNotFoundException: Thrown when a product with the specified id is not found.
+### This application handles the following custom exceptions
+* CategoryNotFoundException: Thrown when a category with the specified id is not found.
+* ProductNotFoundException: Thrown when a product with the specified id is not found.
